@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 - 👋 I’m Ashiqul Islam
 - 💻 I’m currently working as an Intern in @anchorblock
 - 👀 I’m interested in NLP, Data Science and Backend Development
