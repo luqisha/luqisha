@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 I’m Ashiqul Islam
+- 💻 I’m currently working as an Intern in @anchorblock
+- 👀 I’m interested in NLP, Data Science and Backend Development
+- 🌱 I’m currently learning Django 
+- 📫 Reach me at ashiqul-islam@outlook.com
 
 <!--
 **luqisha/luqisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
