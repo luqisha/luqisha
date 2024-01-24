@@ -1,4 +1,4 @@
-### Hi there ![](https://komarev.com/ghpvc/?username=luqisha)
+### Hi there ![](https://komarev.com/ghpvc/?username=luqisha&label=)
 - 👋 I’m Ashiqul Islam
 - 💻 I’m currently working as an Intern [@anchorblock](https://github.com/anchorblock)
 - 👀 I’m interested in NLP, Data Science and Backend Development
