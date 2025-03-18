@@ -1,6 +1,7 @@
 ### Hi there ![](https://komarev.com/ghpvc/?username=luqisha&label=)
 - 👋 I’m Ashiqul Islam
-- 💻 I’m currently working as an Intern [@anchorblock](https://github.com/anchorblock)
+- 💻 I’m currently working with ERP solutions @NexERP
+- ⚡ Formerly worked as a Data Science Intern [@anchorblock](https://github.com/anchorblock)
 - 👀 I’m interested in NLP, Data Science and Backend Development
 - 🌱 I’m currently learning Django 
 - 📫 Reach me at ashiqul-islam@outlook.com
